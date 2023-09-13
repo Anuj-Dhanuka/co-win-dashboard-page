@@ -1,0 +1,9 @@
+/* Write your CSS here */
+
+.vaccination-by-gender-title {
+  font-family: Roboto;
+  color: #cbd5e1;
+  margin-top: 36px;
+  font-size: 22px;
+  margin-bottom: 16px;
+}
